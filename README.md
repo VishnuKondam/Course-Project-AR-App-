@@ -8,4 +8,10 @@ In order to reproduce the same feeling and dynamics when we are playing the conv
  1. Unity
  2. Vuforia AR
  
+My Video
+
+
+
+https://github.com/VishnuKondam/Course-Project-AR-App-/assets/125760166/61893c6b-695a-4ae1-9c5b-dbb4b9ff6623
+
 
